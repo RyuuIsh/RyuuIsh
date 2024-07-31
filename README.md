@@ -1,4 +1,4 @@
-[MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b)
+![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b)
 <h1 align="center">Hi 👋, I'm Ishaan Chhabra</h1>
 <h3 align="center">A Coding Enthusiast || Aspire to be a Cloud Engineer || Passionate about DevOps Engineering and Python Development from India</h3>
 
