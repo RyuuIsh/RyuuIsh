@@ -35,10 +35,38 @@ Building Scalable • Automated • Production-Ready Systems
 
 ---
 
+<!-- ================= TECH STACK ================= -->
+
 ## 🧠 Tech Stack
 
+### 🐍 Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=python,docker,jenkins,kubernetes,aws,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### ⚙️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,kubernetes,bash" />
+</p>
+
+### ☁️ Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+</p>
+
+### 🧩 Libraries & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=flask" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" />
+</p>
+
+### 🖥️ Operating Systems
+<p>
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=windows" />
 </p>
 
 ---
