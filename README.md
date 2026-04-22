@@ -129,37 +129,6 @@ Designing • Automating • Scaling Systems
 
 ---
 
-<!-- ================= ACTIVITY ================= -->
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryuuish&theme=tokyo-night" />
-</p>
-
----
-
-<!-- ================= TROPHIES ================= -->
-
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ryuuish&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-<!-- ================= FOCUS ================= -->
-
-## ⚡ Current Focus
-
-- 🔥 Advanced **CI/CD Pipelines**
-- ☁️ AWS **Architecture & Scaling**
-- 🐳 Container Orchestration (**Kubernetes**)
-- 📊 Monitoring (**Prometheus + Grafana**)
-
----
-
 <!-- ================= FOOTER ================= -->
 
 <p align="center">
