@@ -1,136 +1,87 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= DEVOPS ENGINEER BRANDING ================= -->
 
 <h1 align="center">Hi 👋, I'm Ishaan Chhabra</h1>
 
 <h3 align="center">
-🚀 Python Developer | DevOps Engineer | Cloud Enthusiast  
-Designing • Automating • Scaling Systems
+🚀 DevOps Engineer | Python Developer | AWS Cloud  
+Building Scalable • Automated • Production-Ready Systems
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;DevOps+Engineer;AWS+%7C+Docker+%7C+CI%2FCD;Building+Scalable+Cloud+Systems" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ryuuish&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;CI%2FCD+Pipelines+%7C+Docker+%7C+AWS;Automating+Infrastructure;Deploying+Production+Systems" />
 </p>
 
 ---
-
-<!-- ================= ABOUT ================= -->
-
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year B.Tech (Cloud Computing)
-- 💼 DevOps Intern @ Zendot Technologies
-- ⚙️ Passionate about **Automation, CI/CD & Cloud Infrastructure**
-- 🌱 Currently mastering **Docker, Kubernetes & AWS**
-- 🚀 Building systems that combine **Development + Deployment + Monitoring**
-- 📫 Reach me: **ishaanchhabra19@gmail.com**
+- 🎓 B.Tech Graduate in **Cloud Computing**
+- 💼 DevOps Intern at **Zendot Technologies**
+- ⚙️ Hands-on with **CI/CD pipelines, Docker, AWS deployments**
+- 🚀 Built and deployed **production-ready cloud applications**
+- 📊 Monitoring using **Prometheus & Grafana**
+- 🔧 Strong in **Linux (Ubuntu, CentOS), Git, Python (Flask)**
 
 ---
 
-<!-- ================= CONNECT ================= -->
+## ⚡ Core Expertise
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/ishaan-chhabra-8ab85620">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://instagram.com/_ishaan__here_">
-<img src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
-</p>
+- 🔄 CI/CD → GitHub Actions, Jenkins  
+- 🐳 Containerization → Docker  
+- ☁️ Cloud → AWS (EC2, S3, IAM, ELB, CloudWatch)  
+- 📊 Monitoring → Prometheus, Grafana  
+- 🖥️ OS → Linux (Ubuntu, CentOS)  
+- 🧠 Backend → Python (Flask APIs)
 
 ---
-
-<!-- ================= TECH STACK ================= -->
 
 ## 🧠 Tech Stack
 
-### 🐍 Programming
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-### ⚙️ DevOps & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,kubernetes,bash" />
-</p>
-
-### ☁️ Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
-</p>
-
-### 🧩 Libraries & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=flask" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" />
-</p>
-
-### 🖥️ Operating Systems
-<p>
-<img src="https://img.shields.io/badge/Linux-Ubuntu-orange?style=for-the-badge&logo=ubuntu" />
-<img src="https://img.shields.io/badge/Linux-CentOS-262577?style=for-the-badge&logo=centos" />
-<img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=python,docker,jenkins,kubernetes,aws,git,linux" />
 </p>
 
 ---
 
-<!-- ================= DEVOPS ARCHITECTURE ================= -->
+## 🚀 Key Projects
 
-## 🏗️ DevOps Architecture (CI/CD Pipeline)
-
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*7u7q7m0X6fYz1G7J9qQZ4w.png" width="90%"/>
-</p>
-
-
----
-
-<!-- ================= PROJECTS ================= -->
-
-## 🚀 Projects
-
-### 🔹 HireLens – AI Job Portal with Resume Analyzer
-✨ MERN Stack based intelligent job platform  
-✨ Automated resume parsing & ATS scoring  
-✨ JWT Authentication & Role-based system  
-✨ Smart job recommendations  
+### 🔹 HireLens – AI Job Portal
+- MERN stack platform with **JWT authentication**
+- Automated **resume parsing & ATS scoring**
+- Role-based access for recruiters & applicants
+- Designed scalable backend architecture
 
 ---
 
-### 🔹 DevOps CI/CD Deployment Pipeline
-✨ GitHub Actions + Jenkins automation  
-✨ Docker containerization  
-✨ AWS EC2 deployment  
-✨ Monitoring with Prometheus  
+### 🔹 DevOps CI/CD Pipeline
+- Automated deployment using **GitHub Actions + Jenkins**
+- Containerized applications using **Docker**
+- Deployed on **AWS EC2 with Nginx**
+- Monitoring with **Prometheus & Grafana**
 
 ---
 
-<!-- ================= STATS ================= -->
+## 📈 What I Deliver
+
+- ⚡ Faster deployments with CI/CD automation  
+- 🔁 Reduced manual effort via DevOps workflows  
+- 📊 Real-time monitoring and alerting  
+- 🚀 Scalable cloud-based deployments  
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ryuuish&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuish&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ryuuish&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ryuuish&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuish&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-<!-- ================= FOOTER ================= -->
+## 🤝 Open to Opportunities
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
-</p>
+💼 Actively seeking **DevOps / Cloud / Backend roles**  
+📩 Contact: **ishaanchhabra19@gmail.com**
+
+---
