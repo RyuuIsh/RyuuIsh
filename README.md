@@ -88,7 +88,7 @@ Designing • Automating • Scaling Systems
 ## 🏗️ DevOps Architecture (CI/CD Pipeline)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashishps1/awesome-learn-devops/master/images/devops-pipeline.png" width="90%"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*7u7q7m0X6fYz1G7J9qQZ4w.png" width="90%"/>
 </p>
 
 
